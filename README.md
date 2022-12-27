@@ -26,6 +26,7 @@ A:병원비 때문에 감당하기 힘드시군요.
 ```
 
 ## Requirements
+- python 3.8
 - pytorch 1.8.0, torchvision 0.9.0, torchaudio 0.8.0, tensorboardX
 - cuda 11.1
 - huggingface transformers
