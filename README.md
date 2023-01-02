@@ -58,7 +58,7 @@ pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 transf
 
 - [Huggingface DialoGPT-small model](https://huggingface.co/microsoft/DialoGPT-small)
 - Fine-tuning: 30 epochs with 23306 datasets
-  - Extract the [zip file](https://drive.google.com/file/d/1xy7eYIoIDYoXDeZ_rBRIyPjmohbxaE46/view?usp=share_link) of the pre-trained model (30 epochs) to 'output-small-save' folder
+  - Extract the [zip file](https://drive.google.com/file/d/1xy7eYIoIDYoXDeZ_rBRIyPjmohbxaE46/view?usp=share_link) of the model (30 epochs) to 'output-small-save' folder
 
 ## Training and Inference
 
